@@ -1,0 +1,30 @@
+UID: 11; Email: user11@company.com;
+Activity Log:
+0. [logged in] at 2024-10-30T16:05:16+02:00
+1. [logged out] at 2024-10-30T16:05:16+02:00
+2. [logged in] at 2024-10-30T16:05:16+02:00
+3. [logged out] at 2024-10-30T16:05:16+02:00
+4. [logged out] at 2024-10-30T16:05:16+02:00
+5. [created record] at 2024-10-30T16:05:16+02:00
+6. [created record] at 2024-10-30T16:05:16+02:00
+7. [created record] at 2024-10-30T16:05:16+02:00
+8. [created record] at 2024-10-30T16:05:16+02:00
+9. [created record] at 2024-10-30T16:05:16+02:00
+10. [logged out] at 2024-10-30T16:05:16+02:00
+11. [created record] at 2024-10-30T16:05:16+02:00
+12. [deleted record] at 2024-10-30T16:05:16+02:00
+13. [logged out] at 2024-10-30T16:05:16+02:00
+14. [logged in] at 2024-10-30T16:05:16+02:00
+15. [logged in] at 2024-10-30T16:05:16+02:00
+16. [created record] at 2024-10-30T16:05:16+02:00
+17. [logged in] at 2024-10-30T16:05:16+02:00
+18. [created record] at 2024-10-30T16:05:16+02:00
+19. [logged out] at 2024-10-30T16:05:16+02:00
+20. [logged in] at 2024-10-30T16:05:16+02:00
+21. [logged out] at 2024-10-30T16:05:16+02:00
+22. [created record] at 2024-10-30T16:05:16+02:00
+23. [logged in] at 2024-10-30T16:05:16+02:00
+24. [logged in] at 2024-10-30T16:05:16+02:00
+25. [logged in] at 2024-10-30T16:05:16+02:00
+26. [deleted record] at 2024-10-30T16:05:16+02:00
+27. [logged out] at 2024-10-30T16:05:16+02:00
